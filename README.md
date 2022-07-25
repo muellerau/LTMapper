@@ -25,14 +25,17 @@ v0.4 - 20201003
 - timestamped log (to match result files)
 - revised final statistics output
 - fixed: lt_getid() accepted partial matches leading to falsely assigned sequences/IDs
+
 v0.3 - 20201001
 - correct interpretation of no hits BLAST results
 - fixed query CLI argument
 - various minor code improvements
+
 v0.2 - 20200926
 - added CLI parameters
 - reconciles CLI with config file inputs (CLI takes precedence over config)
 - reports more statistics
 - timestamped results
+
 v0.1 - 20200506
 - initial version, basic functionality
